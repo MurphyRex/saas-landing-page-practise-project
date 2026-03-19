@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a SaaS (Software as a Service) platform. This project was built to practice clean UI/UX design, responsive layouts, and organized folder structures.
 
-## 🔗 Live Demo
+## 🔗 Live Demo 🔗
 https://69bc371f2ac58f065bac7ea9--charming-sprite-817790.netlify.app/
 
 ---
